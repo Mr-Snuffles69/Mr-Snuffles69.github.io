@@ -1,6 +1,6 @@
-## Hanzlah Munir
+<center> ## Hanzlah Munir </center>
 
-<center> The world's most sexy man, whose curves would even fry the boldest of eyes. </center>
+<center><i> The world's most sexy man, whose curves would even fry the boldest of eyes. </i></center>
 
 
 ### About Me
@@ -8,30 +8,27 @@
 First Year College Student at Forman Christian College. Full Stack Developer and Engineer, and automation expert.
 
 ```markdown
-Something More
 
 # School
-```python
+
+I Studied Here, according to the school_life.__init__ class.
+
 print(school.name)
 # Unique High School 112/A (Main Branch)
 
-```
+
 
 ## Matric Marks
-```
-print(marks.matric)
->> 1034/1100 (95%) A+
-```
-### Socials
 
-- OnlyFans
-- PornHub Cams
-- Charubate
+That's what I scored and I am damn proud of it.
+<center>
+  print(marks.matric)
+  >> 1034/1100 (95%) A+
+</center>
 
 ## Motto
 
-**Fuck** and _Suck_ cause `islifeshort = True`!
-
+Unity Fath and Discipline, no Fuck Suck and Duck!
 [Link](url) and ![Image](src)
 ```
 
