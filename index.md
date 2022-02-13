@@ -13,7 +13,8 @@ Something More
 # School
 ```python
 print(school.name)
->> Unique High School 112/A (Main Branch)
+# Unique High School 112/A (Main Branch)
+
 ```
 
 ## Matric Marks
