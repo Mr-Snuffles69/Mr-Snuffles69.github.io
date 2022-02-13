@@ -1,4 +1,4 @@
-<center> ## Hanzlah Munir </center>
+<center><h1> Hanzlah Munir </h1></center>
 
 <center><i> The world's most sexy man, whose curves would even fry the boldest of eyes. </i></center>
 
@@ -7,30 +7,29 @@
 
 First Year College Student at Forman Christian College. Full Stack Developer and Engineer, and automation expert.
 
-```markdown
-
 # School
 
-I Studied Here, according to the school_life.__init__ class.
-
+I Studied Here, according to the `school_life.__init__` class.
+<quote>Had an Amazing Time there and did not regret it.</quote>
+```python
 print(school.name)
-# Unique High School 112/A (Main Branch)
-
+>> Unique High School 112/A (Main Branch)
+```
 
 
 ## Matric Marks
 
 That's what I scored and I am damn proud of it.
-<center>
+  ```python
   print(marks.matric)
   >> 1034/1100 (95%) A+
-</center>
+  ```
 
 ## Motto
 
 Unity Fath and Discipline, no Fuck Suck and Duck!
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
