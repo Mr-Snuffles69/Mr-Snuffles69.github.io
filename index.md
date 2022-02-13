@@ -2,42 +2,18 @@
 
 <center><i> The world's most sexy man, whose curves would even fry the boldest of eyes. </i></center>
 
-<center>
-### About Me
-</center>
+Hello, my name is Hanzlah Munir and I am a Student at FCC (Forman Christian College). I own a MacBook Pro and I have 2 REAL GIRLS in my instagram dm, and I am a lonely bastard who loves and enjoys online orgies in order to have enticing and exciting erotic moments on Zoom Premium.
 
-First Year College Student at Forman Christian College. Full Stack Developer and Engineer, and automation expert.
+# Hobbies
 
-# School
+I also have an OnlyFans account, where I go ahead and provide my clients with amazing moments that makes their day and makes my Bank Account more likeable. By Pockets are filled with Durex EverProMax ++ Because It is disrespect if I do not go ahead and provide myself with a size big enough that will go ahead and make the store clerk question his manhood.
 
-I Studied Here, according to the `school_life.__init__` class.
+# Favorite Band
 
-```python
-print(school.name)
->> Unique High School 112/A (Main Branch)
-```
+My Favorite Band is Mehter (Ottoman War Band), and I love Plevne Marsi. I enjoy watching Ertugrul to go ahead and make myself feel Islamic and Good after a Nice Orgy Session thanks to my PorHub Premium Session. I also like Pshyco by Mia Rodrigaz and I go crazy while driving and listing to that song nearly always killing myself in the diopamene overflow.
 
+# Contact
 
-## Matric Marks
-
-That's what I scored and I am damn proud of it.
-
-```python
-  print(marks.matric)
-  >> 1034/1100 (95%) A+
- ```
-
-## Motto
-
-<center> Unity Fath and Discipline, no Fuck Suck and Duck! 
-
-
-### Jekyll Themes
-
-
-### Support or Contact
-
-Want to Contact me and get access to my premium orgy channel only for girls though and get access to the worlds most enticing and erotic virtual experience that you ever get in this world. 
-<center>  
-**Contact**: hanzal@hanzlah.me
-  </center>
+If you want to contact me you can have three options.
+1. Mobile Phone: +923001425666
+2. Discord: Snuffles#
