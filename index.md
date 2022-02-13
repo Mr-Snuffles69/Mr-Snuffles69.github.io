@@ -1,27 +1,35 @@
-## Welcome to GitHub Pages
+## Hanzlah Munir
 
-You can use the [editor on GitHub](https://github.com/Mr-Snuffles69/Mr-Snuffles69.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<center> The world's most sexy man, whose curves would even fry the boldest of eyes. </center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First Year College Student at Forman Christian College. Full Stack Developer and Engineer, and automation expert.
 
 ```markdown
-Syntax highlighted code block
+Something More
 
-# Header 1
-## Header 2
-### Header 3
+# School
+```python
+print(school.name)
+>> Unique High School 112/A (Main Branch)
+```
 
-- Bulleted
-- List
+## Matric Marks
+```
+print(marks.matric)
+>> 1034/1100 (95%) A+
+```
+### Socials
 
-1. Numbered
-2. List
+- OnlyFans
+- PornHub Cams
+- Charubate
 
-**Bold** and _Italic_ and `Code` text
+## Motto
+
+**Fuck** and _Suck_ cause `islifeshort = True`!
 
 [Link](url) and ![Image](src)
 ```
