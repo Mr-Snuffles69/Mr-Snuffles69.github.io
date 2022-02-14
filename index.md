@@ -6,7 +6,7 @@ Hello, my name is Hanzlah Munir and I am a Student at FCC (Forman Christian Coll
 
 # Hobbies
 
-I also have an OnlyFans account, where I go ahead and provide my clients with amazing moments that makes their day and makes my Bank Account more likeable. By Pockets are filled with Durex EverProMax ++ Because It is disrespect if I do not go ahead and provide myself with a size big enough that will go ahead and make the store clerk question his manhood.
+I also have an OnlyFans account, where I go ahead and provide my clients with amazing moments that makes their day and makes my Bank Account more likeable. My Pockets are filled with Durex EverProMax ++ Because It is disrespect if I do not go ahead and provide myself with a size big enough that will go ahead and make the store clerk question his manhood.
 
 # Favorite Band
 
@@ -16,4 +16,5 @@ My Favorite Band is Mehter (Ottoman War Band), and I love Plevne Marsi. I enjoy 
 
 If you want to contact me you can have three options.
 1. Mobile Phone: +923001425666
-2. Discord: Snuffles#
+2. Discord: Snuffles#8062
+3. Instagram: hanzlahmunir
