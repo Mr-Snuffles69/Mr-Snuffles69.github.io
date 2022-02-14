@@ -15,6 +15,6 @@ My Favorite Band is Mehter (Ottoman War Band), and I love Plevne Marsi. I enjoy 
 # Contact
 
 If you want to contact me you can have three options.
-1. Mobile Phone: +923001425666
+1. Mobile Phone: +92 3001425666
 2. Discord: Snuffles#8062
 3. Instagram: hanzlahmunir
